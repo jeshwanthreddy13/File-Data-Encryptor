@@ -1,1 +1,2 @@
 # File-Data-Encryptor
+This is a project based on File Data Encryption. This project demonstrates cryptography algorithm to encrypt and decrypt files present in a folder to securely store them.It uses NUMBERIC CODES to manipulate and make the contents of a file incoherent and indistinguishable until the user decrypts the folder. The concept of multiple keys makes it very secure. A key concept used here is that the coding standards are all CERT recommendations which makes it very secure and tamper proof.
