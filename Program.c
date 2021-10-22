@@ -22,7 +22,7 @@ void cleanup(void) {
 
 int main()
 {
-    //atexit(cleanup);
+    atexit(cleanup);
     Integer_Type Input;//Integer type Input for switch statement case selection
     Integer_Type Nav2_for_EOF;//Integer type variable to navigate till end of file
     Character_Type fname[File_Size];//For storing the file name when the user inputs it
